@@ -1,0 +1,8 @@
+{
+    "compilerOption":{
+        "paths":{
+            "@controllers/*":["controllers/*"],
+            "@models/*":["models/*"]
+        }
+    }
+}
